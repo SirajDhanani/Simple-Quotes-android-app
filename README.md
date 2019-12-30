@@ -4,8 +4,10 @@
 
 # Screenshots
 
-![quotifytwoback](https://user-images.githubusercontent.com/59367049/71593633-e2c78900-2b5a-11ea-877a-35d121f61837.png)
 ![quotifyoneback](https://user-images.githubusercontent.com/59367049/71593634-e2c78900-2b5a-11ea-9c4a-82e2255b1964.png)
+
+
+![quotifytwoback](https://user-images.githubusercontent.com/59367049/71593633-e2c78900-2b5a-11ea-877a-35d121f61837.png)
 
 
 
